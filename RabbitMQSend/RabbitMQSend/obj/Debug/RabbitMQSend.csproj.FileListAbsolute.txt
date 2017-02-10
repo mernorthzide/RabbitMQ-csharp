@@ -1,0 +1,10 @@
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQSend\RabbitMQSend\bin\Debug\RabbitMQSend.exe.config
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQSend\RabbitMQSend\bin\Debug\RabbitMQSend.exe
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQSend\RabbitMQSend\bin\Debug\RabbitMQSend.pdb
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQSend\RabbitMQSend\bin\Debug\NLipsum.Core.dll
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQSend\RabbitMQSend\bin\Debug\RabbitMQ.Client.dll
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQSend\RabbitMQSend\bin\Debug\NLipsum.Core.xml
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQSend\RabbitMQSend\bin\Debug\RabbitMQ.Client.xml
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQSend\RabbitMQSend\obj\Debug\RabbitMQSend.csprojResolveAssemblyReference.cache
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQSend\RabbitMQSend\obj\Debug\RabbitMQSend.exe
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQSend\RabbitMQSend\obj\Debug\RabbitMQSend.pdb

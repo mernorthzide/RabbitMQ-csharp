@@ -1,0 +1,8 @@
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQReceive\RabbitMQReceive\bin\Debug\RabbitMQReceive.exe.config
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQReceive\RabbitMQReceive\bin\Debug\RabbitMQReceive.exe
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQReceive\RabbitMQReceive\bin\Debug\RabbitMQReceive.pdb
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQReceive\RabbitMQReceive\bin\Debug\RabbitMQ.Client.dll
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQReceive\RabbitMQReceive\bin\Debug\RabbitMQ.Client.xml
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQReceive\RabbitMQReceive\obj\Debug\RabbitMQReceive.csprojResolveAssemblyReference.cache
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQReceive\RabbitMQReceive\obj\Debug\RabbitMQReceive.exe
+C:\Users\c1000476.THAIBEV\Desktop\RabbitMQReceive\RabbitMQReceive\obj\Debug\RabbitMQReceive.pdb
